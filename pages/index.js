@@ -8,12 +8,13 @@ export default function Home() {
         <h2 className="inter text-4xl mb-3 font-bold text-gray-800">
           Welcome to Capacitree.js App{" "}
           <span className="block text-blue-500 text-2xl font-normal">
-            Sarge Doesnt Care
+            Sarge Doesnt Care 
+            Also Ian Doesnt Caaaaaaaaare
           </span>
         </h2>
 
         <p className="text-gray-700 mb-6">
-          Deploy API routes, static frontend, databases, and more.
+          be a good homie, Deploy API routes, static frontend, databases, and more.
         </p>
 
         <div className="sm:flex">
