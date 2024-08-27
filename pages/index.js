@@ -44,8 +44,8 @@ export default function Home() {
         </svg>
 
         <Image
-          src="background.jpg"
-          alt="Ocean Image"
+          src="tiger.jpg"
+          alt="Tiger Image"
           className="lg:absolute object-cover lg:inset-y-0 lg:right-0 lg:h-full lg:w-full"
         />
       </div>
